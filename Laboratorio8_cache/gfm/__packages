@@ -1,0 +1,10 @@
+readr
+dplyr
+stringr
+lubridate
+stopwords
+RColorBrewer
+wordcloud
+ggplot2
+lattice
+caret
